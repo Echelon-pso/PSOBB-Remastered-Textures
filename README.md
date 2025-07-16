@@ -1,4 +1,5 @@
-### A collection of HD remastered textures for the game Phantasy Star Online: Blue Burst.
+### A collection of HD remastered textures\
+for the game Phantasy Star Online: Blue Burst.
 
 **Instructions:** Download as a .ZIP file\
 Open PSOBB-Remastered-Textures-main\
